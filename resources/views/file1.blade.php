@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-	<h1>gyhttju</h1>
+	<h1>gyhttjuiiiiiiiiiiii</h1>
 	<form action="{{url('insertStudent')}}" method="post">
 	@csrf
 	<!-- <input type="" name=""> -->
